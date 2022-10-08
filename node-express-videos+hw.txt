@@ -16,7 +16,7 @@ Watch video number 3 about express ("Learn Express JS In 35 Minutes")
 Try to understand everything and try to run everything he does. 
 tip* (Watch video, write code, run the code, try to understand)
 
-There is some things we didn't covered yet like "Router" for example.
+There is some things we didn't cover yet like "Router" for example.
 nevertheless, try to understand all before I will explain all this on the next lectures. 
 Self learning ability is also one of the most important skills of any software developer! 
 
